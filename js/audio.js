@@ -7,7 +7,7 @@ $(document).ready(function(){
     $pauseBtn = $('#audio-pause');
     $audioControl = $('[data-type="audio-control"]');
     
-    setTimeout(initAudioPlayer, 800);
+    // setTimeout(initAudioPlayer, 800);
 
     function initAudioPlayer() {
         $playBtn.parent().show();
@@ -15,7 +15,6 @@ $(document).ready(function(){
         // audio.play();
 
         $audioControl.click(function() {
-            console.log('audio control click');
 
             if (audio.paused) {
                 audio.play();
