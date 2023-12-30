@@ -1,5 +1,5 @@
 ## Insta-page
 
-#Intensive course web development from school at the [WebaCademy](https://pages.github.com/)
+# Intensive course web development from school at the [WebaCademy](https://pages.github.com/)
 
-##First practical course
+## First practical course
