@@ -1,5 +1,5 @@
 ## Insta-page
 
-# Intensive course  [WebaCademy](https://webcademy.ru/)
+# Intensive course  [WebCademy](https://webcademy.ru/)
 
 ## First practical course
