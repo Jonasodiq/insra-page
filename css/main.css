@@ -9,10 +9,13 @@ body {
 	color: #000000;
 	background-color: #424242;
 
-	background: #F8D353;
+	/* background: #F8D353;
 	background: -webkit-linear-gradient(top left, #F8D353, #FF5C5A);
 	background: -moz-linear-gradient(top left, #F8D353, #FF5C5A);
-	background: linear-gradient(top left, #F8D353, #FF5C5A);
+	background: linear-gradient(top left, #F8D353, #420df0); */
+
+	background: rgb(0,2,177);
+	background: linear-gradient(180deg, rgba(0,2,177,1) 40%, rgba(157,0,113,1) 100%);
 
 /*	background: #B0D09C;
 	background: -webkit-linear-gradient(top left, #B0D09C, #4B8244);
@@ -24,10 +27,10 @@ body {
 	background: -moz-linear-gradient(top left, #B5DBDC, #A8C6D4);
 	background: linear-gradient(top left, #B5DBDC, #A8C6D4);*/
 	
-/*	background: #DFA2B9;
+	/* background: #DFA2B9;
 	background: -webkit-linear-gradient(top left, #DFA2B9, #EBC48D);
 	background: -moz-linear-gradient(top left, #DFA2B9, #EBC48D);
-	background: linear-gradient(top left, #DFA2B9, #EBC48D);*/
+	background: linear-gradient(top left, #DFA2B9, #EBC48D); */
 }
 
 img {
